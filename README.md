@@ -16,4 +16,5 @@ Project title: Harvel Electric
          Nguyen Hai Dang Trieu     T1S2402013
 
 ============================
-eProject documentation at 
+eProject documentation at https://github.com/DuongHoang99/Alberto-Clock/tree/main/Document
+
