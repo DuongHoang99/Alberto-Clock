@@ -115,6 +115,7 @@ function App() {
         <Route path='/faq' element={<Faq />}></Route>
         <Route path='/gallery' element={<Gallery />}></Route>
         <Route path='/contactus' element={<ContactUs />}></Route>
+        <Route path='*' element={<Homepage />}></Route>
       </Routes>
       <Outlet />
 
