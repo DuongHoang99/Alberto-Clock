@@ -1,0 +1,454 @@
+[
+    {
+        "id":"MTP-VT01L-1BUDF",
+        "name":"Casio MTP",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCasio/MTP-VT01L-1BUDF/80_MTP-VT01L-1BUDF.avif",
+        "pict2":"Assett/Images/dataCasio/MTP-VT01L-1BUDF/MTP-VT01L-1BUDF-MTP-VT01L-7B2UDF-MTP-VT01D-7BUDF-3.avif",
+        "price":"1.182.000 VND"
+    },
+    {
+        
+        "id":"MTP-V004L-1AUDF",
+        "name":"Casio MTP 2",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCasio/MTP-V004L-1AUDF/MTP-V004L-1AUDF.avif",
+        "pict2":"Assett/Images/dataCasio/MTP-V004L-1AUDF/MTP-V004L-1AUDF-4.avif",
+        "price":"888.000 VND"
+    },
+    {
+        
+        "id":"MTP-V004GL-9AUDF-2",
+        "name":"Casio MTP 3",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCasio/MTP-V004GL-9AUDF-2/MTP-V004GL-9AUDF-2.avif",
+        "pict2":"Assett/Images/dataCasio/MTP-V004GL-9AUDF-2/casio-box.avif",
+        "price":"938.000 VND"
+    },
+    {
+        
+        "id":"MTP-1302D-1A1VDF",
+        "name":"Casio MTP 4",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCasio/MTP-1302D-1A1VDF/MTP-1302D-1A1VDF.avif",
+        "pict2":"Assett/Images/dataCasio/MTP-1302D-1A1VDF/MTP-1302D-1A1VDF-1.avif",
+        "price":"1.476.000 VND"
+    },
+    {
+        
+        "id":"MRW-200H-1B2VDF-1",
+        "name":"Casio MRW",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCasio/MRW-200H-1B2VDF-1/MRW-200H-1B2VDF.avif",
+        "pict2":"Assett/Images/dataCasio/MRW-200H-1B2VDF-1/MRW-200H-1B2VDF-1.avif",
+        "price":"939.000 VND"
+    },
+    {
+        
+        "id":"LTP-V007L-9BUDF",
+        "name":"Casio LTP",
+        "gender":"Female",
+        "pict":"Assett/Images/dataCasio/LTP-V007L-9BUDF/LTP-V007L-9BUDF.avif",
+        "pict2":"Assett/Images/dataCasio/LTP-V007L-9BUDF/LTP-V007L-9BUDF-1.avif",
+        "price":"829.000 VND"
+    },
+    {
+        
+        "id":"LTP-V007L-7E1UDF",
+        "name":"Casio LTP",
+        "gender":"Female",
+        "pict":"Assett/Images/dataCasio/LTP-V007L-7E1UDF/LTP-V007L-7E1UDF.avif",
+        "pict2":"Assett/Images/dataCasio/LTP-V007L-7E1UDF/LTP-V007L-9BUDF-LTP-V007L-7E1UDF-2.avif",
+        "price":"829.000 VND"
+    }, {
+        
+        "id":"LTP-V005D-2B3UDF",
+        "name":"Casio LTP 2",
+        "gender":"Female",
+        "pict":"Assett/Images/dataCasio/LTP-V005D-2B3UDF/LTP-V005D-2B3UDF.avif",
+        "pict2":"Assett/Images/dataCasio/LTP-V005D-2B3UDF/Casio-LTP-V005D-2B3UDF-2.avif",
+        "price":"829.000 VND"
+    },
+
+
+
+
+
+
+
+    {
+        
+        "id":"NJ0154-80H",
+        "name":"Citizen Tsuyosa",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/NJ0154-80H/NJ0154-80H.avif",
+        "pict2":"Assett/Images/dataCitizen/NJ0154-80H/NJ0154-80H2.avif",
+        "price":"13.685.000 VND"
+
+    },
+    {
+        
+        "id":"NJ0153-82X2x3",
+        "name":"Citizen Tsuyosa 2",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/NJ0153-82X2x3/NJ0153-82X2x3 (1).avif",
+        "pict2":"Assett/Images/dataCitizen/NJ0153-82X2x3/NJ0153-82X2x3(2).avif",
+        "price":"13.985.000 VND"
+
+    },
+    {
+        
+        "id":"NH9130-17A",
+        "name":"Citizen NH9130",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/NH9130-17A/NH9130-17A.avif",
+        "pict2":"Assett/Images/dataCitizen/NH9130-17A/NH9130-17A-6.avif",
+        "price":"8.985.000 VND"
+
+    },
+    {
+        
+        "id":"NH8353-00H",
+        "name":"Citizen NH8353",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/NH8353-00H/NH8353-00H.avif",
+        "pict2":"Assett/Images/dataCitizen/NH8353-00H/89_NH8353-00H-2.avif  ",
+        "price":"6.485.000 VND"
+
+    },
+    {
+        
+        "id":"AP1050-81A",
+        "name":"Citizen Calendrier Moonphase",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/AP1050-81A/AP1050-81A.avif",
+        "pict2":"Assett/Images/dataCitizen/AP1050-81A/5-7.avif  ",
+        "price":"13.885.000  VND"
+
+    },
+    {
+        
+        "id":"AN8201-57L",
+        "name":"Citizen Chronograph ",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/AN8201-57L/AN8201-57L.avif",
+        "pict2":"Assett/Images/dataCitizen/AN8201-57L/Citizen-10ATM-AN8201-57L-4.avif  ",
+        "price":"6.885.000  VND"
+
+    },
+    {
+        
+        "id":"AN8190-51L",
+        "name":"Citizen AN8190",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/AN8190-51L/AN8190-51L.avif",
+        "pict2":"Assett/Images/dataCitizen/AN8190-51L/Citizen-AN8190-51L-1.avif ",
+        "price":"5.585.000 VND"
+
+    },
+    {
+        
+        "id":"BI5006",
+        "name":"Citizen BI5006",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/86_BI5006-81P/86_BI5006-81P.avif",
+        "pict2":"Assett/Images/dataCitizen/86_BI5006-81P/Citizen-BI5006-81P-1-1.avif",
+        "price":"4.385.000 VND"
+
+    },
+    {
+        
+        "id":"BI5006",
+        "name":"Citizen BI5006",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/86_BI5006-81P/86_BI5006-81P.avif",
+        "pict2":"Assett/Images/dataCitizen/86_BI5006-81P/Citizen-BI5006-81P-1-1.avif",
+        "price":"4.385.000 VND"
+
+    },
+
+
+
+
+
+
+
+
+
+
+    {
+        
+        "id":"K002.403.641.51",
+        "name":"KOI Noble",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K002.403.641.51.03.04/Doxa-D136SWH-3.avif",
+        "pict2":"Assett/Images/dataKoi/K002.403.641.51.03.04/Koi-K002.403.641.51.03.04-4-1.avif",
+        "price":"5.560.000 VND"
+
+    },
+    
+    {
+        
+        "id":"K002.403.641.03",
+        "name":"KOI Noble 2",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K002.403.641.03.05.04/K002.403.641.03.05.04.avif",
+        "pict2":"Assett/Images/dataKoi/K002.403.641.03.05.04/Koi-K002.403.641.03.05.04-4-2.avif",
+        "price":"4.720.000 VND"
+
+    },
+    {
+        
+        "id":"K002.103.641.50",
+        "name":"KOI Noble 3",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K002.103.641.50.13.04/K002.103.641.50.13.04.avif",
+        "pict2":"Assett/Images/dataKoi/K002.103.641.50.13.04/3-6.avif",
+        "price":"5.900.000  VND"
+
+    },
+    {
+        
+        "id":"K002.103.641.54",
+        "name":"KOI Noble 4",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K002.103.641.50.03.04/K002.103.641.50.03.04.avif",
+        "pict2":"Assett/Images/dataKoi/K002.103.641.50.03.04/1-6.avif",
+        "price":"5.140.000  VND"
+
+    },
+    {
+        
+        "id":"K002.103.641.54",
+        "name":"KOI Noble 5",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K002.103.641.03.13.04/K002.103.641.03.13.04.avif",
+        "pict2":"Assett/Images/dataKoi/K002.103.641.03.13.04/2-4.avif",
+        "price":"5.480.000  VND"
+
+    },
+    {
+        
+        "id":"K002.103.641.35",
+        "name":"KOI Noble 6",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K001.450.641.50.03-1/K001.450.641.50.03-1.avif",
+        "pict2":"Assett/Images/dataKoi/K001.450.641.50.03-1/K001.450.641.50.03.01-5.avif",
+        "price":"3.590.000 VND"
+
+    },
+    {
+        
+        "id":"K002.103.641.11",
+        "name":"Koi K001",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K001.136.642.29.01.04-5/K001.136.642.29.01.04-5.avif",
+        "pict2":"Assett/Images/dataKoi/K001.136.642.29.01.04-5/K001.136.642.29.01.04-2.avif",
+        "price":"2.410.000  VND"
+
+    },
+    {
+        
+        "id":"K001.103.642.05",
+        "name":"Koi K001",
+        "gender":"Female",
+        "pict":"Assett/Images/dataKoi/K001.103.642.05.01-1/K001.103.642.05.01-1.avif",
+        "pict2":"Assett/Images/dataKoi/K001.103.642.05.01-1/K001.103.642.05.01.01-6.avif",
+        "price":"2.060.000  VND"
+
+    },
+
+
+
+
+
+
+
+    {
+        
+        "id":"RE-AV0114E00B",
+        "name":"Orient Star Semi Skeleton",
+        "gender":"Male",
+        "pict":"Assett/Images/dataOrient/RE-AV0114E00B/RE-AV0114E00B.avif",
+        "pict2":"Assett/Images/dataOrient/RE-AV0114E00B/RE-AV0114E00B-2.avif",
+        "price":"24.880.000  VND"
+
+    },
+    {
+        
+        "id":"RE-AV0114E00B",
+        "name":"Orient Symphony 4",
+        "gender":"Male",
+        "pict":"Assett/Images/dataOrient/RA-AC0F08G10B/RA-AC0F08G10B.avif",
+        "pict2":"Assett/Images/dataOrient/RA-AC0F08G10B/Orient-Symphony-4-RA-AC0F08G10B-3.1.avif",
+        "price":"9.450.000  VND"
+
+    },
+    {
+        
+        "id":"RA-AA0B04R19B",
+        "name":"Orient SK VietNam",
+        "gender":"Male",
+        "pict":"Assett/Images/dataOrient/RA-AA0B04R19B/RA-AA0B04R19B.avif",
+        "pict2":"Assett/Images/dataOrient/RA-AA0B04R19B/5MODEL.avif",
+        "price":"8.800.000 VND"
+
+    },
+    {
+        
+        "id":"FAG00003W0",
+        "name":"Orient Caballero",
+        "gender":"Male",
+        "pict":"Assett/Images/dataOrient/FAG00003W0/FAG00003W0.avif",
+        "pict2":"Assett/Images/dataOrient/FAG00003W0/FAG00003W0-5.avif",
+        "price":"8.500.000 VND"
+
+    },
+    {
+        
+        "id":"RA-AR0005Y10B",
+        "name":"Orient RA",
+        "gender":"Male",
+        "pict":"Assett/Images/dataOrient/1_RA-AR0005Y10B/1_RA-AR0005Y10B.avif",
+        "pict2":"Assett/Images/dataOrient/1_RA-AR0005Y10B/Orient-Open-Heart-Second-Small-RA-AR0005Y10B-4.avif",
+        "price":"9.550.000 VND"
+
+    },
+
+
+
+    
+
+
+
+
+    
+    {
+        
+        "id":"SL1607.4902TE.1",
+        "name":"SR SL1607   ",
+        "gender":"Female",
+        "pict":"Assett/Images/dataSRwatch/SL1607.4902TE.1/SL1607.4902TE.1.avif",
+        "pict2":"Assett/Images/dataSRwatch/SL1607.4902TE.1/SL1607.4902TE_3.avif",
+        "price":"1.850.000 VND"
+
+    },
+    {
+        
+        "id":"SL1605.1302TE",
+        "name":"SR SL1605 ",
+        "gender":"Female",
+        "pict":"Assett/Images/dataSRwatch/SL1605.1302TE/SL1605.1302TE.avif",
+        "pict2":"Assett/Images/dataSRwatch/SL1605.1302TE/SL1605.1302TE-1.avif",
+        "price":"1.850.000 VND"
+
+    },
+    {
+        
+        "id":"SG19193.4902",
+        "name":"SR SG19193",
+        "gender":"Male",
+        "pict":"Assett/Images/dataSRwatch/SG19193.4902/SG19193.4902.avif",
+        "pict2":"Assett/Images/dataSRwatch/SG19193.4902/SG19193.4902_5.avif",
+        "price":"7.450.000 VND"
+
+    },
+    {
+        
+        "id":"SG19192.1102",
+        "name":"SR SG19192",
+        "gender":"Male",
+        "pict":"Assett/Images/dataSRwatch/SG19192.1102/SG19192.1102.avif",
+        "pict2":"Assett/Images/dataSRwatch/SG19192.1102/SG19192.1102_3.avif",
+        "price":"7.450.000 VND"
+
+    },
+    {
+        
+        "id":"SG9002.1102",
+        "name":"SR SG9002",
+        "gender":"Male",
+        "pict":"Assett/Images/dataSRwatch/SG9002.1102/SG9002.1102.avif",
+        "pict2":"Assett/Images/dataSRwatch/SG9002.1102/SG9002.1102_2.avif",
+        "price":"2.900.000 VND"
+
+    },
+
+
+
+
+   
+
+    {
+        
+        "id":"GA-B2100FC-3ADR",
+        "name":"G-Shock GA100",
+        "gender":"Male",
+        "pict":"Assett/Images/dataGshock/GA-B2100FC-3ADR/G-Shock-GA-B2100FC-3ADR.avif",
+        "pict2":"Assett/Images/dataGshock/GA-B2100FC-3ADR/G-Shock-GA-B2100FC-3ADR-2.avif",
+        "price":"5.811.000 VND"
+
+    },
+    {
+        
+        "id":"GA-2100CA-8ADR_1",
+        "name":"G-Shock GA-700",
+        "gender":"Male",
+        "pict":"Assett/Images/dataGshock/GA-700-1BDR/GA-700-1BDR.avif",
+        "pict2":"Assett/Images/dataGshock/GA-700-1BDR/GA-700-1BDR-5.avif",
+        "price":"3.706.000 VND"
+
+    },
+    {
+        
+        "id":"GA-100BNR-1ADR",
+        "name":"G-Shock GA-100BNR",
+        "gender":"Male",
+        "pict":"Assett/Images/dataGshock/GA-100BNR-1ADR/GA-100BNR-1ADR.avif",
+        "pict2":"Assett/Images/dataGshock/GA-100BNR-1ADR/GA-100BNR-1ADR_3.avif",
+        "price":"4.147.000 VND"
+
+    },
+    {
+        
+        "id":"GA-2100-1ADR",
+        "name":"G-Shock GA-2100",
+        "gender":"Male",
+        "pict":"Assett/Images/dataGshock/84_GA-2100-1ADR/84_GA-2100-1ADR.avif",
+        "pict2":"Assett/Images/dataGshock/84_GA-2100-1ADR/GA-2100-1ADR-GA-2100-1A1DR-4.avif",
+        "price":"3.814.000  VND"
+
+    },
+    {
+        
+        "id":"DW-5600BB-1DR",
+        "name":"G-Shock DW",
+        "gender":"Male",
+        "pict":"Assett/Images/dataGshock/18_DW-5600BB-1DR/18_DW-5600BB-1DR.avif",
+        "pict2":"Assett/Images/dataGshock/18_DW-5600BB-1DR/CASIO-DW-5600BB-1DR-0.avif",
+        "price":"3.528.000  VND"
+
+    }   
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    
+]

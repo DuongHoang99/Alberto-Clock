@@ -1,0 +1,333 @@
+[
+    {
+        "id": "SRPK41K1",
+        "name": "Seiko 5 Sports",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSeiko/SRPK41K1/SRPK41K.avif",
+        "pict2":"Assett/Images/dataSeiko/SRPK41K1/Seiko-5-Sports-–-SRPK41K1-3.avif",
+        "price": "12.500.000 VND"
+    },
+    {
+        "id": " SRPK31K1",
+        "name": "Seiko 5 Sports",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSeiko/SRPK31K1/SRPK31K1.avif",
+        "pict2":"Assett/Images/dataSeiko/SRPK31K1/Seiko-Sport-SRPK31K1-5-square.jpg",
+        "price": "9.330.000 VND"
+    },
+    {
+        "id": " SRPK17K1",
+        "name": "Seiko 5 Sports 55th Anniversary",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSeiko/SRPK17K1/SRPK17K1.avif",
+        "pict2":"Assett/Images/dataSeiko/SRPK17K1/SRPK17K1-1.avif",
+        "price": "13.170.000 VND"
+    },
+    {
+        "id": " SRPK09K1",
+        "name": "Seiko 5 Sports Retro ",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSeiko/SRPK09K1/SRPK09K.avif",
+        "pict2":"Assett/Images/dataSeiko/SRPK09K1/Seiko-5-Sports-SRPK09K-1.avif",
+        "price": "13.170.000 VND"
+    },
+    {
+        "id": " SRPH75K1",
+        "name": "Seiko Prospex Sea ",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSeiko/SRPH75K1/Seiko-Prospex-Automatic-SRPH75K1-15.avif",
+        "pict2": "Assett/Images/dataSeiko/SRPH75K1/Seiko-Prospex-Automatic-SRPH75K1-13.avif",
+        "price": "15.250.000 VND"
+    },
+    
+    {
+        "id": " SRPH29K1",
+        "name": "Seiko 5 Field Sports Style",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSeiko/SRPH29K1/SRPH29K1.avif",
+        "pict2": "Assett/Images/dataSeiko/SRPH29K1/SRPH29K1-6.avif",
+        "price": "9.000.000 VND"
+    },
+    {
+        "id": "SPB409J1",
+        "name": "Seiko Prospex ",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSeiko/SPB409J1/Seiko-SPB409J-.avif",
+        "pict2": "Assett/Images/dataSeiko/SPB409J1/Seiko-SPB409J-3.avif",
+        "price": "41.000.000  VND"
+    },
+    {
+        "id": "SFJ009P1",
+        "name": "Seiko Prospex Speedtimer",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSeiko/SFJ009P1/Seiko-SFJ0091-1.avif",
+        "pict2": "Assett/Images/dataSeiko/SFJ009P1/Seiko-Prospex-Speedtimer-SFJ009P1-3.avif",
+        "price": "30.750.000 VND"
+    },
+
+
+
+
+
+
+
+    
+    {
+        "id": "DW00100651",
+        "name": "Daniel Wellington Quadro Mini ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100651/DW00100651-1.avif",
+        "pict2": "Assett/Images/dataDW/DW00100651/DW00100651-1-1.avif",
+        "price": "4.610.000 VND"
+    },
+    {
+        "id": "DW00100644",
+        "name": "Daniel Wellington ",
+        "gender": "Male",
+        "pict": "Assett/Images/dataDW/DW00100644/DW00100644.avif",
+        "pict2": "Assett/Images/dataDW/DW00100644/DW00100644-7.avif",
+        "price": "8.210.000  VND"
+    },
+    {
+        "id": "DW00100620",
+        "name": "Daniel Wellington Quadro 5 ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100620/DW00100620.avif",
+        "pict2": "Assett/Images/dataDW/DW00100620/DW00100613-DW00100617-DW00100621-DW00100620-2-2.avif",
+        "price": "6.930.000  VND"
+    },
+    {
+        "id": "DW00100522",
+        "name": "Daniel Wellington Quadro Studio ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100522/DW00100522.avif",
+        "pict2": "Assett/Images/dataDW/DW00100522/Daniel-Wellington-Quadro-Studio-DW00100522-4.avif",
+        "price": "5.195.000  VND"
+    },
+    {
+        "id": "DW00100513",
+        "name": "Daniel Wellington MOP  ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100513/DW00100513.avif",
+        "pict2": "Assett/Images/dataDW/DW00100513/DW00100513-2.avif",
+        "price": "4.870.000  VND"
+    },
+    {
+        "id": "DW00100510",
+        "name": "Daniel Wellington MOP 2 ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100510/DW00100510.avif",
+        "pict2": "Assett/Images/dataDW/DW00100510/DW00100510-DW00100513.avif",
+        "price": "5.640.000  VND"
+    },
+    {
+        "id": "DW00100438",
+        "name": "Daniel Wellington Quadro ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100438/DW00100438.avif",
+        "pict2": "Assett/Images/dataDW/DW00100438/DW00100438-2.avif",
+        "price": "4.940.000  VND"
+    },
+    {
+        "id": "DW00100434",
+        "name": "Daniel Wellington Quadro 2 ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100434/DW00100434.avif",
+        "pict2": "Assett/Images/dataDW/DW00100434/DW00100434-2.avif",
+        "price": "4.350.000   VND"
+    },
+    
+    {
+        "id": "DW00100431",
+        "name": "Daniel Wellington Quadro 3 ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100431/DW00100431.avif",
+        "pict2": "Assett/Images/dataDW/DW00100431/DW00100431_1.avif",
+        "price": "4.940.000   VND"
+    },
+    {
+        "id": "DW00100420",
+        "name": "Daniel Wellington Iconic Link ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100420/DW00100420.avif",
+        "pict2": "Assett/Images/dataDW/DW00100420/DW00100420_1.avif",
+        "price": "6.010.000  VND"
+    },
+    {
+        "id": "DW00100246",
+        "name": "Daniel Wellington Petite ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100246/DW00100246.avif",
+        "pict2": "Assett/Images/dataDW/DW00100246/11.avif",
+        "price": "4.350.000  VND"
+    },
+    {
+        "id": "DW00100231",
+        "name": "Daniel Wellington ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100231/DW00100231.avif",
+        "pict2": "Assett/Images/dataDW/DW00100231/DW00100231-4.avif",
+        "price": "4.090.000  VND"
+    },
+    {
+        "id": "DW00100220",
+        "name": "Daniel Wellington Petite Sterling ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100220/DW00100220.avif",
+        "pict2": "Assett/Images/dataDW/DW00100220/117_DW00100220-2.avif",
+        "price": "4.350.000  VND"
+    },
+    {
+        "id": "DW00100219",
+        "name": "Daniel Wellington Classic Petite ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100219/DW00100219.avif",
+        "pict2": "Assett/Images/dataDW/DW00100219/DW00100219 (1).avif",
+        "price": "4.350.000  VND"
+    },
+    {
+        "id": "DW00100212",
+        "name": "Daniel Wellington Iconic Link",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100212/DW00100212.avif",
+        "pict2": "Assett/Images/dataDW/DW00100212/DW00100212-1-3.avif",
+        "price": "5.195.000 VND"
+    },
+
+
+
+
+
+
+
+    {
+        "id": "SVWHSV",
+        "name": "Saga 71931",
+        "gender": "Female",
+        "pict": "Assett/Images/dataSaga/SVWHSV-2/71931-SVWHSV-2.avif",
+        "pict2": "Assett/Images/dataSaga/SVWHSV-2/71931-CGGRCG-2-71931-SVWHSV-2-5-1.avif",
+        "price": "6.380.000 VND"
+    },
+    {
+        "id": "SVWHBL",
+        "name": "Saga Stella 71836",
+        "gender": "Female",
+        "pict": "Assett/Images/dataSaga/SVWHBL-2/71836-SVWHBL-2-3.avif",
+        "pict2": "Assett/Images/dataSaga/SVWHBL-2/71836-SVWHBL-2-1.jpg",
+        "price": "4.050.000 VND"
+    },
+    {
+        "id": "SVPEBK-3LH",
+        "name": " Saga Long Xing Da Da",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSaga/SVPEBK-3LH/Saga-Long-Xing-Da-Da-13665-SVPEBK-3LH-1.avif",
+        "pict2": "Assett/Images/dataSaga/SVPEBK-3LH/Saga-13665-SVPEBK-3LH-1.avif",
+        "price": "16.880.000 VND"
+    },
+    {
+        "id": "SVMWSV-2",
+        "name": " Saga Stella 53555",
+        "gender": "Female",
+        "pict": "Assett/Images/dataSaga/SVMWSV-2/SVMWSV-2.avif",
+        "pict2": "Assett/Images/dataSaga/SVMWSV-2/Saga-53555-SVMWSV-2-2.avif",
+        "price": "6.380.000 VND"
+    },
+    {
+        "id": "SVMWBK-2",
+        "name": " Saga 53458",
+        "gender": "Female",
+        "pict": "Assett/Images/dataSaga/SVMWBK-2/53458-SVMWBK-2.avif",
+        "pict2":"Assett/Images/dataSaga/SVMWBK-2/53458-SVMWBK-2-5.avif",
+        "price": "8.080.000 VND"
+    },
+    {
+        "id": "SVGERD-2LH",
+        "name": " Saga Long Xing Da Da 2",
+        "gender": "Female",
+        "pict": "Assett/Images/dataSaga/SVGERD-2LH/2-11.avif",
+        "pict2":"Assett/Images/dataSaga/SVGERD-2LH/Saga-53111-SVGERD-2LH-1-1.avif",
+        "price": "8.180.000 VND"
+    },
+    {
+        "id": "RGMWRG-5",
+        "name": " Saga Charm 53229",
+        "gender": "Female",
+        "pict": "Assett/Images/dataSaga/RGMWRG-5/53229-RGMWRG-5.avif",
+        "pict2":"Assett/Images/dataSaga/RGMWRG-5/53229-RGMWRG-5-2.avif",
+        "price": "8.220.000 VND"
+    },
+    {
+        "id": "RGMWRG-2",
+        "name": "Saga 53555",
+        "gender": "Female",
+        "pict": "Assett/Images/dataSaga/RGMWRG-2/2_53555-RGMWRG-2.avif",
+        "pict2":"Assett/Images/dataSaga/RGMWRG-2/53555-RGMWRG-2-1.avif",
+        "price": "6.830.000 VND"
+    },
+    {
+        "id": " RGMPRG-2S",
+        "name": "Saga Stella 53585",
+        "gender": "Female",
+        "pict": "Assett/Images/dataSaga/RGMPRG-2S/4_53585-RGMPRG-2S.avif",
+        "pict2":"Assett/Images/dataSaga/RGMPRG-2S/53585-RGMPRG-2S-1.avif",
+        "price": "7.770.000 VND"
+    },
+    {
+        "id": " RGMPRG-2",
+        "name": "Saga MOP Diamonds ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataSaga/RGGRGR-2/Image_20231113063713.avif",
+        "pict2":"Assett/Images/dataSaga/RGGRGR-2/71936-RGGRGR-2-1.avif",
+        "price": "6.830.000 VND"
+    },
+    {
+        "id": "LGSVWH-2",
+        "name": "Saga Stella Chance  ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataSaga/LGSVWH-2/53578-LGSVWH-2.avif",
+        "pict2":"Assett/Images/dataSaga/LGSVWH-2/53578-LGSVWH-2-4.avif",
+        "price": "4.920.000 VND"
+    },
+    {
+        "id": "GPMWGP-2",
+        "name": "Saga Stella 53555 ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataSaga/GPMWGP-2/1_53555-GPMWGP-2.avif",
+        "pict2": "Assett/Images/dataSaga/GPMWGP-2/53555-GPMWGP-2-4.avif",
+        "price": "6.830.000 VND"
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+
+
+
+    
+    
+
+    
+
+
+    
+
+
+
+
+
+
+
+    
+]

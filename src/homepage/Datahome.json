@@ -1,0 +1,69 @@
+[
+    
+        {
+        
+            "id":"NJ0154-80H",
+            "name":"Citizen Tsuyosa",
+            "gender":"Male",
+            "pict":"Assett/Images/dataCitizen/NJ0154-80H/NJ0154-80H.avif",
+            "pict2":"Assett/Images/dataCitizen/NJ0154-80H/NJ0154-80H2.avif",
+            "price":"13.685.000 VND"
+    
+        },
+        {
+        
+            "id":"K002.403.641.03",
+            "name":"KOI Noble 2",
+            "gender":"Male",
+            "pict":"Assett/Images/dataKoi/K002.403.641.03.05.04/K002.403.641.03.05.04.avif",
+            "pict2":"Assett/Images/dataKoi/K002.403.641.03.05.04/Koi-K002.403.641.03.05.04-4-2.avif",
+            "price":"4.720.000 VND"
+    
+        },
+        {
+        
+            "id":"RE-AV0114E00B",
+            "name":"Orient Star Semi Skeleton",
+            "gender":"Male",
+            "pict":"Assett/Images/dataOrient/RE-AV0114E00B/RE-AV0114E00B.avif",
+            "pict2":"Assett/Images/dataOrient/RE-AV0114E00B/RE-AV0114E00B-2.avif",
+            "price":"24.880.000  VND"
+    
+        },
+        {
+        
+            "id":"RE-AV0114E00B",
+            "name":"Orient Symphony 4",
+            "gender":"Male",
+            "pict":"Assett/Images/dataOrient/RA-AC0F08G10B/RA-AC0F08G10B.avif",
+            "pict2":"Assett/Images/dataOrient/RA-AC0F08G10B/Orient-Symphony-4-RA-AC0F08G10B-3.1.avif",
+            "price":"9.450.000  VND"
+    
+        },
+        {
+            "id": "DW00100644",
+            "name": "Daniel Wellington ",
+            "gender": "Male",
+            "pict": "Assett/Images/dataDW/DW00100644/DW00100644.avif",
+            "pict2": "Assett/Images/dataDW/DW00100644/DW00100644-7.avif",
+            "price": "8.210.000  VND"
+        },
+        {
+            "id": "SFJ009P1",
+            "name": "Seiko Prospex Speedtimer",
+            "gender": "Male",
+            "pict": "Assett/Images/dataSeiko/SFJ009P1/Seiko-SFJ0091-1.avif",
+            "pict2": "Assett/Images/dataSeiko/SFJ009P1/Seiko-Prospex-Speedtimer-SFJ009P1-3.avif",
+            "price": "30.750.000 VND"
+        },
+        {
+            "id": "SPB409J1",
+            "name": "Seiko Prospex ",
+            "gender": "Male",
+            "pict": "Assett/Images/dataSeiko/SPB409J1/Seiko-SPB409J-.avif",
+            "pict2": "Assett/Images/dataSeiko/SPB409J1/Seiko-SPB409J-3.avif",
+            "price": "41.000.000  VND"
+        }
+    
+    
+]

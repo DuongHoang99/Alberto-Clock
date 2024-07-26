@@ -1,0 +1,25 @@
+.introsmart{
+    font-size: 20px;
+}
+.introsmart span{
+    
+    float: left;
+    width: 0.7em;
+    font-size: 400%;
+    font-family: 'Times New Roman', Times, serif;
+    line-height: 68%;
+    margin-right: 20px;
+}
+.introsp{
+    margin-left: 25px;
+}   
+h4{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+h3{
+    font-size: 50px;
+    text-align: center;
+    color: gray;
+}

@@ -1,0 +1,25 @@
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center; 
+    padding: 20px;
+    justify-content: center;
+    align-items: center;
+    max-width: 100%;
+    justify-content: center;
+    margin-left: 100px;
+
+}
+
+.image {
+    
+    width: 100%;
+    
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+
+}
+

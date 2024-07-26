@@ -1,0 +1,30 @@
+.return-policy-container {
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    max-width: 1170px;
+    width: 100%;
+    padding-left: 200px;
+    padding-right: 200px;
+    background-color: white;
+    padding: 20px;
+  }
+  
+  .slideshow {
+    flex: 1;
+  }
+  
+  .return-policy-text {
+    flex: 1;
+    padding: 20px;
+    text-align: left;
+  }
+  
+  .return-policy-text h2 {
+    margin-top: 0;
+  }
+  
+  .return-policy-text p {
+    line-height: 1.6;
+  }

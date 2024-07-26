@@ -1,0 +1,11 @@
+custom-list {
+    list-style-position: inside; /* Đặt dấu chấm vào trong */
+    padding-left: 10px; /* Bỏ padding mặc định của danh sách */
+  }
+  
+  .custom-list li {
+    margin-bottom: 8px; /* Khoảng cách giữa các mục trong danh sách */
+    text-indent: -1em; /* Đẩy văn bản ngược lại để sát vào dấu chấm */
+    padding-left: 1em; /* Căn chỉnh lại khoảng cách để văn bản sát vào dấu chấm */
+    text-align: left;
+  }

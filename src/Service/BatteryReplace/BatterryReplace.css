@@ -1,0 +1,76 @@
+.container2 {
+    display: grid;
+    align-items: stretch;
+    grid-template-columns: 500px 200px;
+    
+    
+  }
+  
+  .flex-container > div {
+    background-color: white;
+    color:rebeccapurple;
+    margin: 10px;
+    text-align: left; 
+    line-height: 75px;
+    font-size: 14px;
+  }
+  .image {
+    display: grid ;
+    width: 500px;
+  
+    
+  }
+  .image2{
+    display: flex;
+    justify-content: center; /* Căn giữa theo chiều ngang */
+    align-items: center; /* Căn giữa theo chiều dọc */
+    
+  } 
+  
+  .image img {
+    
+    height: auto;
+    max-width: 90%; /* Đảm bảo hình ảnh không vượt quá chiều rộng của container */
+    display: block; /* Đảm bảo hình ảnh không có khoảng cách dưới nó */
+    object-fit: cover;
+  }
+  
+  .image2 img{
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px
+  }
+  
+  .text {
+    line-height: 50px;
+    padding-right: 50px;
+    padding-top: 10px;  
+    font-family:Arial, Helvetica, sans-serif;
+    white-space: nowrap;
+  
+  }
+  .custom-list {
+    list-style-position: inside; /* Đặt dấu chấm vào trong */
+    padding-left: 10px; /* Bỏ padding mặc định của danh sách */
+  }
+  
+  .custom-list li {
+    margin-bottom: 8px; /* Khoảng cách giữa các mục trong danh sách */
+    text-indent: -1em; /* Đẩy văn bản ngược lại để sát vào dấu chấm */
+    padding-left: 1em; /* Căn chỉnh lại khoảng cách để văn bản sát vào dấu chấm */
+    text-align: left;
+    
+    
+  }
+  .custom-hr {
+    border: 0;
+    height: 1px;
+    background: #333;
+    background-image: linear-gradient(to right, #ccc, #333, #ccc);
+    margin: 20px 0; /* Khoảng cách trên và dưới đường kẻ ngang */
+    color: red;
+  }
+  .map{
+    width: 100%;
+    height: 500px;
+  }

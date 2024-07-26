@@ -1,0 +1,123 @@
+[ {
+    "id": "SVWHSV",
+    "name": "Saga 71931",
+    "gender": "Female",
+    "pict": "Assett/Images/dataSaga/SVWHSV-2/71931-SVWHSV-2.avif",
+    "pict2": "Assett/Images/dataSaga/SVWHSV-2/71931-CGGRCG-2-71931-SVWHSV-2-5-1.avif",
+    "price": "6.380.000 VND"
+},
+{
+    "id": "SVWHBL",
+    "name": "Saga Stella 71836",
+    "gender": "Female",
+    "pict": "Assett/Images/dataSaga/SVWHBL-2/71836-SVWHBL-2-3.avif",
+    "pict2": "Assett/Images/dataSaga/SVWHBL-2/71836-SVWHBL-2-1.jpg",
+    "price": "4.050.000 VND"
+},
+{
+    "id": "SVPEBK-3LH",
+    "name": " Saga Long Xing Da Da",
+    "gender": "Male",
+    "pict": "Assett/Images/dataSaga/SVPEBK-3LH/Saga-Long-Xing-Da-Da-13665-SVPEBK-3LH-1.avif",
+    "pict2": "Assett/Images/dataSaga/SVPEBK-3LH/Saga-13665-SVPEBK-3LH-1.avif",
+    "price": "16.880.000 VND"
+},
+{
+    "id": "SVMWSV-2",
+    "name": " Saga Stella 53555",
+    "gender": "Female",
+    "pict": "Assett/Images/dataSaga/SVMWSV-2/SVMWSV-2.avif",
+    "pict2": "Assett/Images/dataSaga/SVMWSV-2/Saga-53555-SVMWSV-2-2.avif",
+    "price": "6.380.000 VND"
+},
+{
+    "id": "DW00100231",
+    "name": "Daniel Wellington ",
+    "gender": "Female",
+    "pict": "Assett/Images/dataDW/DW00100231/DW00100231.avif",
+    "pict2": "Assett/Images/dataDW/DW00100231/DW00100231-4.avif",
+    "price": "4.090.000  VND"
+},
+{
+    "id": "DW00100220",
+    "name": "Daniel Wellington Petite Sterling ",
+    "gender": "Female",
+    "pict": "Assett/Images/dataDW/DW00100220/DW00100220.avif",
+    "pict2": "Assett/Images/dataDW/DW00100220/117_DW00100220-2.avif",
+    "price": "4.350.000  VND"
+},
+{
+    "id": "DW00100219",
+    "name": "Daniel Wellington Classic Petite ",
+    "gender": "Female",
+    "pict": "Assett/Images/dataDW/DW00100219/DW00100219.avif",
+    "pict2": "Assett/Images/dataDW/DW00100219/DW00100219 (1).avif",
+    "price": "4.350.000  VND"
+},
+{
+    "id": "DW00100212",
+    "name": "Daniel Wellington Iconic Link",
+    "gender": "Female",
+    "pict": "Assett/Images/dataDW/DW00100212/DW00100212.avif",
+    "pict2": "Assett/Images/dataDW/DW00100212/DW00100212-1-3.avif",
+    "price": "5.195.000 VND"
+},
+{
+    "id": " SRPK31K1",
+    "name": "Seiko 5 Sports",
+    "gender": "Male",
+    "pict": "Assett/Images/dataSeiko/SRPK31K1/SRPK31K1.avif",
+    "pict2":"Assett/Images/dataSeiko/SRPK31K1/Seiko-Sport-SRPK31K1-5-square.jpg",
+    "price": "9.330.000 VND"
+},
+{
+    "id": " SRPK17K1",
+    "name": "Seiko 5 Sports 55th Anniversary",
+    "gender": "Male",
+    "pict": "Assett/Images/dataSeiko/SRPK17K1/SRPK17K1.avif",
+    "pict2":"Assett/Images/dataSeiko/SRPK17K1/SRPK17K1-1.avif",
+    "price": "13.170.000 VND"
+},
+{
+    "id": " SRPK09K1",
+    "name": "Seiko 5 Sports Retro ",
+    "gender": "Male",
+    "pict": "Assett/Images/dataSeiko/SRPK09K1/SRPK09K.avif",
+        "pict2":"Assett/Images/dataSeiko/SRPK09K1/Seiko-5-Sports-SRPK09K-1.avif",
+        "price": "13.170.000 VND"
+    },
+    {
+        "id": " SRPH75K1",
+        "name": "Seiko Prospex Sea ",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSeiko/SRPH75K1/Seiko-Prospex-Automatic-SRPH75K1-15.avif",
+        "pict2": "Assett/Images/dataSeiko/SRPH75K1/Seiko-Prospex-Automatic-SRPH75K1-13.avif",
+        "price": "15.250.000 VND"
+    },
+    
+    {
+        "id": " SRPH29K1",
+        "name": "Seiko 5 Field Sports Style",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSeiko/SRPH29K1/SRPH29K1.avif",
+        "pict2": "Assett/Images/dataSeiko/SRPH29K1/SRPH29K1-6.avif",
+        "price": "9.000.000 VND"
+    },
+    {
+        "id": "SPB409J1",
+        "name": "Seiko Prospex ",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSeiko/SPB409J1/Seiko-SPB409J-.avif",
+        "pict2": "Assett/Images/dataSeiko/SPB409J1/Seiko-SPB409J-3.avif",
+        "price": "41.000.000  VND"
+    },
+    {
+        "id": "SFJ009P1",
+        "name": "Seiko Prospex Speedtimer",
+        "gender": "Male",
+        "pict": "Assett/Images/dataSeiko/SFJ009P1/Seiko-SFJ0091-1.avif",
+        "pict2": "Assett/Images/dataSeiko/SFJ009P1/Seiko-Prospex-Speedtimer-SFJ009P1-3.avif",
+        "price": "30.750.000 VND"
+    }
+
+]

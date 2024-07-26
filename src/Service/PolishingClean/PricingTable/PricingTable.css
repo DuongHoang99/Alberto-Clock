@@ -1,0 +1,68 @@
+.pricing-table {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  .pricing-column {
+    flex: 1;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px; /* Khoảng cách giữa các cột */
+    min-width: 300px; /* Đảm bảo cột không quá nhỏ trên màn hình nhỏ */
+  }
+  .pricing-table :hover{
+    
+    
+    transform: scale(1.05);  
+    
+    
+  }
+  
+  
+  
+  .pricing-header {
+    background-color: #3498db;
+    color: white;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+    padding: 10px;
+  }
+  
+  .pricing-header h3 {
+    margin: 0;
+  }
+  
+  .price {
+    font-size: 24px;
+    margin-top: 10px;
+  }
+  
+  .price span {
+    font-size: 16px;
+  }
+  
+  .features {
+    list-style-type: none;
+    padding: 0;
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .features li {
+    margin-bottom: 10px;
+    border-bottom: 2px solid rgb(55, 44, 43);
+  }
+  .features li:first-child {
+    border-bottom: 2px solid rgb(28, 24, 24); /* Không có đường kẻ dưới cho mục cuối cùng */
+  }
+  
+  @media (max-width: 768px) {
+    .pricing-column {
+      min-width: auto; /* Hủy bỏ định dạng cột khi màn hình nhỏ hơn */
+    }
+  }

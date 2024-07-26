@@ -1,0 +1,92 @@
+[
+    {
+        
+        "id":"Apple Watch 1123",
+        "name":"App Watch SE ",
+        "gender":"Female",
+        "pict":"Assett/Images/dataApple/Apple Watch SE 2023 GPS/apple-watch-se-2023-gps-cellular-sport-band-trang-1-650x650.jpg",
+        "pict2":"Assett/Images/dataApple/Apple Watch SE 2023 GPS/apple-watch-se-2023-gps-cellular-sport-band-trang-2-650x650.jpg",
+        "price":"25.850.000 VND"
+
+    },
+    {
+        
+        "id":"Apple Watch 0124",
+        "name":"App Watch Series 9 ",
+        "gender":"Female",
+        "pict":"Assett/Images/dataApple/Apple Watch Series 9 GPS/apple-watch-s9-vien-nhom-day-silicone-hong-1-650x650.jpg",
+        "pict2":"Assett/Images/dataApple/Apple Watch Series 9 GPS/apple-watch-s9-vien-nhom-day-silicone-hong-10-650x650.jpg",
+        "price":"22.740.000 VND"
+
+    },
+    {
+        
+        "id":"Apple Watch 4314",
+        "name":"App Watch GPS ",
+        "gender":"Female",
+        "pict":"Assett/Images/dataApple/Apple Watch Series 9 GPS 2/apple-watch-s9-lte-vien-thep-khong-gi-day-thep-1-1-650x650.png",
+        "pict2":"Assett/Images/dataApple/Apple Watch Series 9 GPS 2/apple-watch-s9-lte-vien-thep-khong-gi-day-thep-vang-5-650x650.jpg",
+        "price":"19.500.000 VND"
+
+    },
+    {
+        
+        "id":"Apple Watch 1032",
+        "name":"App Watch Ultra ",
+        "gender":"Female",
+        "pict":"Assett/Images/dataApple/Ultra 2 GPS/vn_apple_watch_ultra_2_lte_49mm_titanium_blue_alpine_loop_pdp_image_position-1-650x650.jpg",
+        "pict2":"Assett/Images/dataApple/Ultra 2 GPS/vn_apple_watch_ultra_2_lte_49mm_titanium_blue_alpine_loop_pdp_image_position-5-650x650.jpg",
+        "price":"20.500.000 VND"
+
+    },
+
+
+
+
+
+    {
+        
+        "id":"Samsung Watch 1120",
+        "name":"Samsung Galaxy Watch FE ",
+        "gender":"Female",
+        "pict":"Assett/Images/dataSamsung/Samsung Galaxy Watch FE/1719770602464_uk_galaxy_watch_fe_r861_sm_r861nidaeua_542493176.webp",
+        "pict2":"Assett/Images/dataSamsung/Samsung Galaxy Watch FE/1719770985860_uk_galaxy_watch_fe_r861_sm_r861nzkaeua_542493202.webp",
+        "price":"17.500.000 VND"
+
+    },
+    {
+        
+        "id":"Samsung Watch 2202",
+        "name":"Samsung Galaxy Watch Fit3 ",
+        "gender":"Female",
+        "pict":"Assett/Images/dataSamsung/Samsung Galaxy Watch Fit3/1708335766497_samsung_watch_fit3_den_didongviet.webp",
+        "pict2":"Assett/Images/dataSamsung/Samsung Galaxy Watch Fit3/1708336971519_samsung_watch_fit3_hong_didongviet_6.webp",
+        "price":"15.700.000 VND"
+
+    },  
+    {
+        
+        "id":"Samsung Watch 1204",
+        "name":"Samsung Galaxy Watch 6 ",
+        "gender":"Female",
+        "pict":"Assett/Images/dataSamsung/Samsung Galaxy Watch6/1690542495383_samsung_galaxy_watch_6_bluetooth_44mm_r940_bac_didongviet_1.webp",
+        "pict2":"Assett/Images/dataSamsung/Samsung Galaxy Watch6/1690542500857_samsung_galaxy_watch_6_bluetooth_44mm_r940_den_didongviet_2.webp",
+        "price":"23.540.000 VND"
+
+    },
+    {
+        
+        "id":"Samsung Watch 1102",
+        "name":"Samsung Galaxy Watch 6 ",
+        "gender":"Female",
+        "pict":"Assett/Images/dataSamsung/Samsung Galaxy Watch7/1720619769131_watch_7_44mm_silver_didongviet.webp",
+        "pict2":"Assett/Images/dataSamsung/Samsung Galaxy Watch7/1720619842143_watch_7_44mm_cream_didongviet_4.webp",
+        "price":"25.540.000 VND"
+
+    }
+
+
+    
+
+
+]

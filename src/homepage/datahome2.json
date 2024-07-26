@@ -1,0 +1,64 @@
+[
+    {
+        
+        "id":"K001.103.642.05",
+        "name":"Koi K001",
+        "gender":"Female",
+        "pict":"Assett/Images/dataKoi/K001.103.642.05.01-1/K001.103.642.05.01-1.avif",
+        "pict2":"Assett/Images/dataKoi/K001.103.642.05.01-1/K001.103.642.05.01.01-6.avif",
+        "price":"2.060.000  VND"
+
+    },
+
+    {
+        
+        "id":"SL1607.4902TE.1",
+        "name":"SR SL1607   ",
+        "gender":"Female",
+        "pict":"Assett/Images/dataSRwatch/SL1607.4902TE.1/SL1607.4902TE.1.avif",
+        "pict2":"Assett/Images/dataSRwatch/SL1607.4902TE.1/SL1607.4902TE_3.avif",
+        "price":"1.850.000 VND"
+
+    },
+    {
+        
+        "id":"LTP-V007L-7E1UDF",
+        "name":"Casio LTP",
+        "gender":"Female",
+        "pict":"Assett/Images/dataCasio/LTP-V007L-7E1UDF/LTP-V007L-7E1UDF.avif",
+        "pict2":"Assett/Images/dataCasio/LTP-V007L-7E1UDF/LTP-V007L-9BUDF-LTP-V007L-7E1UDF-2.avif",
+        "price":"829.000 VND"
+    },
+    {
+        "id": "DW00100651",
+        "name": "Daniel Wellington Quadro Mini ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100651/DW00100651-1.avif",
+        "pict2": "Assett/Images/dataDW/DW00100651/DW00100651-1-1.avif",
+        "price": "4.610.000 VND"
+    },
+    {
+        "id": "DW00100620",
+        "name": "Daniel Wellington Quadro 5 ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100620/DW00100620.avif",
+        "pict2": "Assett/Images/dataDW/DW00100620/DW00100613-DW00100617-DW00100621-DW00100620-2-2.avif",
+        "price": "6.930.000  VND"
+    },
+    {
+        "id": "DW00100513",
+        "name": "Daniel Wellington MOP  ",
+        "gender": "Female",
+        "pict": "Assett/Images/dataDW/DW00100513/DW00100513.avif",
+        "pict2": "Assett/Images/dataDW/DW00100513/DW00100513-2.avif",
+        "price": "4.870.000  VND"
+    },
+    {
+        "id": "SVMWSV-2",
+        "name": " Saga Stella 53555",
+        "gender": "Female",
+        "pict": "Assett/Images/dataSaga/SVMWSV-2/SVMWSV-2.avif",
+        "pict2": "Assett/Images/dataSaga/SVMWSV-2/Saga-53555-SVMWSV-2-2.avif",
+        "price": "6.380.000 VND"
+    }
+]

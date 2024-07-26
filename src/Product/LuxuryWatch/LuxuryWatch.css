@@ -1,0 +1,38 @@
+h4{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+.introlux{
+    font-size: 20px;
+}
+.introlux span{
+    
+        float: left;
+        width: 0.7em;
+        font-size: 400%;
+        font-family: 'Times New Roman', Times, serif;
+        line-height: 68%;
+        margin-right: 20px;
+}
+/* Silder */
+.each-slide-effect > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-size: cover;
+    height: 500px;
+  }
+  
+  .each-slide-effect span {
+    padding: 20px;
+    font-size: 20px;
+    background: #efefef;
+    text-align: center;
+  } 
+.introsp{
+    margin-left: 25px;
+}
+.introsp p{
+    font-size: 19px;
+}

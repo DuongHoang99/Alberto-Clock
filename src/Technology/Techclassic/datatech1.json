@@ -1,0 +1,149 @@
+[
+    {
+        "id":"MTP-VT01L-1BUDF",
+        "name":"Casio MTP",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCasio/MTP-VT01L-1BUDF/80_MTP-VT01L-1BUDF.avif",
+        "pict2":"Assett/Images/dataCasio/MTP-VT01L-1BUDF/MTP-VT01L-1BUDF-MTP-VT01L-7B2UDF-MTP-VT01D-7BUDF-3.avif",
+        "price":"1.182.000 VND"
+    },
+    {
+        
+        "id":"MTP-V004L-1AUDF",
+        "name":"Casio MTP 2",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCasio/MTP-V004L-1AUDF/MTP-V004L-1AUDF.avif",
+        "pict2":"Assett/Images/dataCasio/MTP-V004L-1AUDF/MTP-V004L-1AUDF-4.avif",
+        "price":"888.000 VND"
+    },
+    {
+        
+        "id":"MTP-V004GL-9AUDF-2",
+        "name":"Casio MTP 3",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCasio/MTP-V004GL-9AUDF-2/MTP-V004GL-9AUDF-2.avif",
+        "pict2":"Assett/Images/dataCasio/MTP-V004GL-9AUDF-2/casio-box.avif",
+        "price":"938.000 VND"
+    },
+    {
+        
+        "id":"MTP-1302D-1A1VDF",
+        "name":"Casio MTP 4",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCasio/MTP-1302D-1A1VDF/MTP-1302D-1A1VDF.avif",
+        "pict2":"Assett/Images/dataCasio/MTP-1302D-1A1VDF/MTP-1302D-1A1VDF-1.avif",
+        "price":"1.476.000 VND"
+    },
+{
+        
+        "id":"NJ0154-80H",
+        "name":"Citizen Tsuyosa",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/NJ0154-80H/NJ0154-80H.avif",
+        "pict2":"Assett/Images/dataCitizen/NJ0154-80H/NJ0154-80H2.avif",
+        "price":"13.685.000 VND"
+
+    },
+    {
+        
+        "id":"NJ0153-82X2x3",
+        "name":"Citizen Tsuyosa 2",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/NJ0153-82X2x3/NJ0153-82X2x3 (1).avif",
+        "pict2":"Assett/Images/dataCitizen/NJ0153-82X2x3/NJ0153-82X2x3(2).avif",
+        "price":"13.985.000 VND"
+
+    },
+    {
+        
+        "id":"NH9130-17A",
+        "name":"Citizen NH9130",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/NH9130-17A/NH9130-17A.avif",
+        "pict2":"Assett/Images/dataCitizen/NH9130-17A/NH9130-17A-6.avif",
+        "price":"8.985.000 VND"
+
+    },
+    {
+        
+        "id":"NH8353-00H",
+        "name":"Citizen NH8353",
+        "gender":"Male",
+        "pict":"Assett/Images/dataCitizen/NH8353-00H/NH8353-00H.avif",
+        "pict2":"Assett/Images/dataCitizen/NH8353-00H/89_NH8353-00H-2.avif  ",
+        "price":"6.485.000 VND"
+
+    },
+
+    {
+        
+        "id":"K002.403.641.51",
+        "name":"KOI Noble",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K002.403.641.51.03.04/Doxa-D136SWH-3.avif",
+        "pict2":"Assett/Images/dataKoi/K002.403.641.51.03.04/Koi-K002.403.641.51.03.04-4-1.avif",
+        "price":"5.560.000 VND"
+
+    },
+    
+    {
+        
+        "id":"K002.403.641.03",
+        "name":"KOI Noble 2",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K002.403.641.03.05.04/K002.403.641.03.05.04.avif",
+        "pict2":"Assett/Images/dataKoi/K002.403.641.03.05.04/Koi-K002.403.641.03.05.04-4-2.avif",
+        "price":"4.720.000 VND"
+
+    },
+    {
+        
+        "id":"K002.103.641.50",
+        "name":"KOI Noble 3",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K002.103.641.50.13.04/K002.103.641.50.13.04.avif",
+        "pict2":"Assett/Images/dataKoi/K002.103.641.50.13.04/3-6.avif",
+        "price":"5.900.000  VND"
+
+    },
+    {
+        
+        "id":"K002.103.641.54",
+        "name":"KOI Noble 4",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K002.103.641.50.03.04/K002.103.641.50.03.04.avif",
+        "pict2":"Assett/Images/dataKoi/K002.103.641.50.03.04/1-6.avif",
+        "price":"5.140.000  VND"
+
+    },
+    {
+        
+        "id":"K002.103.641.54",
+        "name":"KOI Noble 5",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K002.103.641.03.13.04/K002.103.641.03.13.04.avif",
+        "pict2":"Assett/Images/dataKoi/K002.103.641.03.13.04/2-4.avif",
+        "price":"5.480.000  VND"
+
+    },
+    {
+        
+        "id":"K002.103.641.35",
+        "name":"KOI Noble 6",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K001.450.641.50.03-1/K001.450.641.50.03-1.avif",
+        "pict2":"Assett/Images/dataKoi/K001.450.641.50.03-1/K001.450.641.50.03.01-5.avif",
+        "price":"3.590.000 VND"
+
+    },
+    {
+        
+        "id":"K002.103.641.11",
+        "name":"Koi K001",
+        "gender":"Male",
+        "pict":"Assett/Images/dataKoi/K001.136.642.29.01.04-5/K001.136.642.29.01.04-5.avif",
+        "pict2":"Assett/Images/dataKoi/K001.136.642.29.01.04-5/K001.136.642.29.01.04-2.avif",
+        "price":"2.410.000  VND"
+
+    }
+]
