@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Alberto-Clock/static/css/main.d5306ee5.css",
-    "main.js": "/Alberto-Clock/static/js/main.636a0ba3.js",
+    "main.js": "/Alberto-Clock/static/js/main.41fbdd13.js",
     "static/js/453.dd53e008.chunk.js": "/Alberto-Clock/static/js/453.dd53e008.chunk.js",
     "static/media/hoang.png": "/Alberto-Clock/static/media/hoang.9f142746f72cb69c04fa.png",
     "static/media/trieu.png": "/Alberto-Clock/static/media/trieu.659aa728066835baa472.png",
@@ -70,11 +70,11 @@
     "static/media/slick.woff": "/Alberto-Clock/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Alberto-Clock/index.html",
     "main.d5306ee5.css.map": "/Alberto-Clock/static/css/main.d5306ee5.css.map",
-    "main.636a0ba3.js.map": "/Alberto-Clock/static/js/main.636a0ba3.js.map",
+    "main.41fbdd13.js.map": "/Alberto-Clock/static/js/main.41fbdd13.js.map",
     "453.dd53e008.chunk.js.map": "/Alberto-Clock/static/js/453.dd53e008.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d5306ee5.css",
-    "static/js/main.636a0ba3.js"
+    "static/js/main.41fbdd13.js"
   ]
 }
