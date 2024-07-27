@@ -15,7 +15,7 @@ export default function RetunPolicy() {
         
       </div>
       
-      <h1>Return Polsicy at Alberto Clock</h1>
+      <h1>Return Policy at Alberto Clock</h1>
       <div className='container' style={{textAlign:'left',paddingLeft:'30px'}}>
           At Alberto Clock, we always strive to display and describe each watch as realistically and in as much detail as possible. We regret and understand that sometimes the product you receive may not meet your expectations.<br/>
           Therefore, we offer a completely FREE 7-day exchange policy so you can freely find the most satisfactory watch for yourself when shopping at Alberto Clock. <br/>
